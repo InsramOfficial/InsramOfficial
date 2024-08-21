@@ -41,7 +41,7 @@
 
 ### 📚 Current Focus & Future Plans
 - 🔍 Studying SEO to optimize digital content and improve online visibility
-- 💻 Enhancing frontend skills with React.js for modern web applications
+- 💻 Enhancing frontend skills with HTML, CSS, JS, and angular for modern web applications
 - 🌐 Preparing to launch a freelancing career on various platforms
 - 🚀 Continuously expanding full stack development capabilities
 
