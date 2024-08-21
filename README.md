@@ -24,9 +24,14 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Basic-603F8C?style=for-the-badge&logo=basic&logoColor=white" alt="Basic" />
 </p>
+
 
 ### 🌟 Key Projects & Achievements
 1. **Windows Server Configuration**: Received high praise for exceptional setup and clear explanation.
@@ -38,7 +43,7 @@
 ### 📚 Current Focus & Future Plans
 - 🔍 Studying SEO to optimize digital content and improve online visibility
 - 💻 Enhancing frontend skills with React.js for modern web applications
-- 🌐 Preparing to launch freelancing career on various platforms
+- 🌐 Preparing to launch a freelancing career on various platforms
 - 🚀 Continuously expanding full stack development capabilities
 
 ### 📊 GitHub Analytics
@@ -63,8 +68,8 @@
 </p>
 
 ### 🚀 Future Aspirations
-- Becoming a sought-after freelancer in full stack development and SEO
-- Mastering React.js and integrating it into robust full stack solutions
+- Becoming a sought-after freelancer in full-stack development and SEO
+- Mastering React.js and integrating it into robust full-stack solutions
 - Contributing to open-source projects to give back to the developer community
 - Establishing a strong online presence through optimized content and applications
 
