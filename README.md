@@ -45,12 +45,10 @@
 - 🌐 Preparing to launch a freelancing career on various platforms
 - 🚀 Continuously expanding full stack development capabilities
 
-### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=insramofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=insramofficial&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insramofficial&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🌐 Connect & Collaborate
