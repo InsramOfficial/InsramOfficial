@@ -53,7 +53,7 @@
 
 ### 🌐 Connect & Collaborate
 <p align="left">
-  <a href="https://linkedin.com/in/insram-ul-haq" target="_blank">
+  <a href="https://www.linkedin.com/in/insram-ul-haq-a462b32b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/insramulhaq" target="_blank">
