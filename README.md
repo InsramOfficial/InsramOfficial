@@ -38,12 +38,14 @@
 3. **OBSC Management System**: Spearheading the development of this innovative system.
 4. **Full Stack Development**: Actively contributing to projects at MCI using .NET Core.
 5. **Web Development**: Building responsive and dynamic websites using HTML, CSS, and JavaScript.
+6. CleanServe: An all-in-one restaurant management system that includes all Operations, including the Business's Own Website .
+7. CrazeCodeLab: A website for startups that have their Own Notification Manager panel to send notifications on their apps in-built.
 
 ### 📚 Current Focus & Future Plans
 - 🔍 Studying SEO to optimize digital content and improve online visibility
-- 💻 Enhancing frontend skills with HTML, CSS, JS, and angular for modern web applications
+- 💻 Enhancing frontend skills with HTML, CSS, JS, and Angular for modern web applications
 - 🌐 Preparing to launch a freelancing career on various platforms
-- 🚀 Continuously expanding full stack development capabilities
+- 🚀 Continuously expanding full-stack development capabilities
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=insramofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
