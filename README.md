@@ -71,7 +71,7 @@
 
 
 </p>
-<p align="center"> <blockquote> <i>"Insram's expertise in full-stack development transformed our project. His attention to detail and problem-solving skills are exceptional!"</i> <br> <strong>- Project Manager at MCI</strong> </blockquote> <blockquote> <i>"Working with Insram was a game-changer. His innovative solutions and dedication made a significant impact on our team."</i> <br> <strong>- Senior Developer at CrazeCodeLab, Ceo</strong> </blockquote> <blockquote> <i>"Insram's ability to communicate complex concepts is impressive. He is a valuable asset to any team."</i> <br> <strong>- Mentor</strong> </blockquote> </p> This section adds credibility to your profile and gives potential collaborators or employers insight into your professional relationships and the impact of your work.
+<p align="center"> <blockquote> <i>"Insram's expertise in full-stack development transformed our project. His attention to detail and problem-solving skills are exceptional!"</i> <br> <strong>- Project Manager at MCI</strong> </blockquote> <blockquote> <i>"Working with Insram was a game-changer. His innovative solutions and dedication made a significant impact on our team."</i> <br> <strong>- Senior Developer at CrazeCodeLab, Ceo</strong> </blockquote> <blockquote> <i>"Insram's ability to communicate complex concepts is impressive. He is a valuable asset to any team."</i> <br> <strong>- Mentor</strong> </blockquote> </p>
 ### 💡 Tech Philosophy
 <p align="center">
   <i>"In the digital landscape, every line of code, every SEO strategy, and every freelance project is an opportunity to create impact and drive innovation."</i>
